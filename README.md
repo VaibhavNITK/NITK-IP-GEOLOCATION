@@ -8,7 +8,7 @@ apt update
 
 apt install git -y
 
-git clone https://github.com/rajkumardusad/IP-Tracer.git
+https://github.com/VaibhavNITK/NITK-IP-GEOLOCATION.git
 
 cd IP-Tracer
 
