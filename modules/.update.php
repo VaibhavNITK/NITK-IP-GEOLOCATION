@@ -24,9 +24,9 @@ function upd() {
   logo();
   echo "\n\033[01;32mUpdating NITK IP-GEOLOCATION.........\033[01;37m\n\n";
   sleep(1);
-  system("cd ~/ && git clone https://github.com/rajkumardusad/IP-Tracer.git");
-  system("cd ~/ && sudo git clone https://github.com/rajkumardusad/IP-Tracer.git");
-  system("cd ~/IP-Tracer && sh install");
+  system("cd ~/ && git clone https://github.com/VaibhavNITK/NITK-IP-GEOLOCATION.git");
+  system("cd ~/ && sudo git clone https://github.com/VaibhavNITK/NITK-IP-GEOLOCATION.git");
+  system("cd ~/NITK-IP-GEOLOCATION && sh install");
   logo();
   echo "\n\033[01;32m              NITK IP-GEOLOCATION updated !!!\033[01;37m\n";
   sleep(1);
